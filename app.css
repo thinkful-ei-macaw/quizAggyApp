@@ -29,7 +29,7 @@ main {
   background-image: linear-gradient(
     rgba(0, 0, 0, 0.6),
     rgba(0, 0, 0, 0.6)),
-  url("https://cf.geekdo-images.com/opengraph/img/6E6Yvbt_1p3GwJZz_DA5sZuuZGA=/fit-in/1200x630/pic567878.jpg");
+  url(./background.jpg);
   background-size: 100% 100%;
   background-repeat: no-repeat;
   width: 70%;
